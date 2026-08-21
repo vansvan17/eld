@@ -2090,3 +2090,4 @@ Fri Aug 21 12:01:36 UTC 2026 -> Add data lock for reverse_iterator all build sta
 Fri Aug 21 12:10:36 UTC 2026 -> Add data lock for linux-kernel riscv32 build status data to be written
 Fri Aug 21 12:10:52 UTC 2026 -> Add data lock for linux-kernel riscv64 build status data to be written
 Fri Aug 21 12:11:07 UTC 2026 -> Add data lock for linux-kernel aarch64 build status data to be written
+Fri Aug 21 12:23:09 PM UTC 2026 -> Add data lock for zephyr aarch64 build status data to be written
